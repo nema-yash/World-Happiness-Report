@@ -1,6 +1,6 @@
-# World-Happiness-Report
+# Analysis on the World Happiness Report
 
-**Objective:**: Evaluate Happiness Index metric and analyze the performance of countries in the World Happiness Report from 2015 to 2019, and recommend ideal next countries to travel to. Tableau dashboard was created to better understand the World Happiness Reports and overall insights
+**Objective**: Evaluate Happiness Index metric and analyze the performance of countries in the World Happiness Report from 2015 to 2019, and recommend ideal next countries to travel to. Tableau dashboard was created to better understand the World Happiness Reports and overall insights
 
 **Trends Analyzed**: 
 
